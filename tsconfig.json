@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6", /* Para qual versao do JS vai ser compilado. */
+    "module": "commonjs", /* Qual o tipo de modularizacao. */
+    "outDir": "./dist", /* Onde arquivos JS vao ficar. */
+    "strict": true, /* Verifica declaracao de variaveis e tipos. */
+    "esModuleInterop": true, /* Se escrever modulos em ESM, vai converter para CJS (que eu especifiquei antes). */
+  }
+}

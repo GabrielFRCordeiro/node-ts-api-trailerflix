@@ -1,0 +1,31 @@
+{
+  "name": "api-trailerflix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dist": "tsup src",
+    "start:dev": "tsx src/index.ts",
+    "start:watch": "tsx watch src/index.ts",
+    "start:dist": "npm run dist && node dist/index.js"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "api",
+    "trailerflix",
+    "trailer"
+  ],
+  "author": "Gabriel Felipe Rocha Cordeiro",
+  "license": "ISC",
+  "description": "API with movie trailers",
+  "devDependencies": {
+    "@types/node": "^22.10.4",
+    "tsup": "^8.3.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@fastify/cors": "^10.0.1",
+    "fastify": "^5.2.0"
+  }
+}
