@@ -11,72 +11,72 @@ const trailers = [
     {
         id: 1,
         name: "Avengers: Infinity War",
-        description: "",
+        description: "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
         youtubeId: "6ZfuNTqbHE8",
-        categories: [""]
+        categories: ["superhero", "action", "adventure", "science fiction"]
     },
     {
         id: 2,
         name: "Everything Everywhere All At Once",
-        description: "",
+        description: "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
         youtubeId: "wxN1T1uxQ2g",
-        categories: [""]
+        categories: ["comedy", "action", "science fiction", "drama"]
     },
     {
         id: 3,
         name: "Spider-Man: No Way Home",
-        description: "",
+        description: "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
         youtubeId: "JfVOs4VSpmA",
-        categories: [""]
+        categories: ["superhero", "action", "adventure", "comedy"]
     },
     {
         id: 4,
         name: "Deadpool & Wolverine",
-        description: "",
+        description: "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
         youtubeId: "73_1biulkYk",
-        categories: [""]
+        categories: ["superhero", "comedy", "action"]
     },
     {
         id: 5,
         name: "Detective Pikachu",
-        description: "",
+        description: "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.",
         youtubeId: "1roy4o4tqQM",
-        categories: [""]
+        categories: ["fantasy", "adventure", "mistery", "comedy"]
     },
     {
         id: 6,
         name: "Black Panther: Wakanda Forever",
-        description: "",
+        description: "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
         youtubeId: "RlOB3UALvrQ",
-        categories: [""]
+        categories: ["superhero", "drama", "science fiction"]
     },
     {
         id: 7,
         name: "Glass Onion",
-        description: "",
+        description: "Tech billionaire Miles Bron invites his friends for a getaway on his private Greek island. When someone turns up dead, Detective Benoit Blanc is put on the case.",
         youtubeId: "-xR_lBtEvSc",
-        categories: [""]
+        categories: ["mistery", "crime", "comedy"]
     },
     {
         id: 8,
         name: "Knives Out",
-        description: "",
+        description: "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate.",
         youtubeId: "qGqiHJTsRkQ",
-        categories: [""]
+        categories: ["mistery", "crime", "comedy"]
     },
     {
         id: 9,
         name: "Suicide Squad",
-        description: "",
+        description: "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.",
         youtubeId: "CmRih_VtVAs",
-        categories: [""]
+        categories: ["superhero", "action", "adventure", "fantasy"]
     },
     {
         id: 10,
         name: "The Suicide Squad",
-        description: "",
+        description: "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
         youtubeId: "jz1FrtMIh5c",
-        categories: [""]
+        categories: ["superhero", "comedy", "action", "fantasy"]
     }
 ]
 
