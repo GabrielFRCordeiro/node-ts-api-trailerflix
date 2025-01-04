@@ -1,4 +1,9 @@
 # TrailerFlix
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2B579A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Node](https://img.shields.io/badge/node-3F873E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-087ED1?style=for-the-badge&logo=typescript&logoColor=white)
+
 A simple Fastify-based API that provides movie trailer information. You can retrieve a list of trailers or information about a specific trailer by its ID.
 
 ### Features
