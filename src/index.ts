@@ -89,7 +89,7 @@ const trailers = [
         id: 12,
         name: "Shazam!",
         description: "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
-        youtubeId: "W2zr_bQeU9g",
+        youtubeId: "go6GEIrcvFY",
         categories: ["family", "superhero", "comedy", "fantasy", "adventure"]
     },
     {
@@ -208,7 +208,7 @@ const trailers = [
         id: 29,
         name: "The Lion King 3",
         description: "Timon the meerkat and Pumbaa the warthog retell the story of O Rei Leão (1994) from their own perspective.",
-        youtubeId: "n5gakaIyNtw",
+        youtubeId: "p0DTnqn71WQ",
         categories: ["musical", "family", "adventure", "comedy"]
     },
     {
