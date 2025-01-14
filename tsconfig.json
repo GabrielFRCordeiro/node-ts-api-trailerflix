@@ -4,6 +4,7 @@
     "module": "commonjs", /* Qual o tipo de modularizacao. */
     "outDir": "./dist", /* Onde arquivos JS vao ficar. */
     "strict": true, /* Verifica declaracao de variaveis e tipos. */
+    "resolveJsonModule": true, /* Aceita importar json */
     "esModuleInterop": true, /* Se escrever modulos em ESM, vai converter para CJS (que eu especifiquei antes). */
   }
 }
