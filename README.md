@@ -6,6 +6,8 @@
 
 A simple Fastify-based API that provides movie trailer information. You can retrieve a list of trailers or information about a specific trailer by its ID.
 
+> This API was made for the [TrailerFlix](https://github.com/GabrielFRCordeiro/react-ts-trailerflix) front-end project
+
 ### Features
 - List all available movie trailers
 - Get information about a specific trailer by its ID
